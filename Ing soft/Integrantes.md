@@ -7,7 +7,7 @@ Estudiantes:
 Martin Chen
 Carlos D'Silvestri
 Pablo Rodriguez
-Juan Paez
+Juan Paez: 20
 
 --------------------------
 Santiago Zuñiga: 19
