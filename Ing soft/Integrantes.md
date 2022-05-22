@@ -16,3 +16,5 @@ Juan Urquijo: 18
 Martin Chen: 20
 Valentina Hernández: 19
 Mateo Arenas: 23
+Angel Talero: 20
+
