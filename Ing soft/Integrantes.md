@@ -12,4 +12,3 @@ Juan Paez
 
 ----------------------------------
 Santiago Zuñiga: 19
-Juan Urquijo: 18
