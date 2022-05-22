@@ -15,3 +15,4 @@ Santiago Zuñiga: 19
 Juan Urquijo: 18
 Martin Chen: 20
 Valentina Hernández: 19
+Mateo Arenas: 23
