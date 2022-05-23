@@ -19,10 +19,6 @@ Mateo Arenas: 23
 Angel Talero: 20
 Daniel Barreto: 19
 Juan Paez: 20
-<<<<<<< HEAD
 Camilo Melo: 19 
 Jaider Daza: 19
-=======
-Camilo Melo: 19
-Jaider Daza: 19
->>>>>>> release/karol
+Karol Ceballos: 20
