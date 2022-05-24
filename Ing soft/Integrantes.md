@@ -24,3 +24,4 @@ Jaider Daza: 19
 Karol Ceballos: 20
 Pablo Rodríguez: 21
 Carlos Borja: 20
+Humberto Rueda: 19
