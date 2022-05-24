@@ -23,3 +23,4 @@ Camilo Melo: 19
 Jaider Daza: 19
 Karol Ceballos: 20
 Pablo Rodríguez: 21
+Carlos Borja: 20
