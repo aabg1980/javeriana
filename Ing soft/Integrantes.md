@@ -22,3 +22,4 @@ Juan Paez: 20
 Camilo Melo: 19 
 Jaider Daza: 19
 Karol Ceballos: 20
+Pablo Rodríguez: 21
